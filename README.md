@@ -1,7 +1,7 @@
 
 # README for Meeting Scheduler Application
 
-## Made with DemoGPT for Fall 2023 CS 8395-08
+Made with DemoGPT for Fall 2023 CS 8395-08
 
 ## Introduction
 
