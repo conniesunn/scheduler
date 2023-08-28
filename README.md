@@ -1,6 +1,8 @@
 
 # README for Meeting Scheduler Application
 
+## Made with DemoGPT for Fall 2023 CS 8395-08
+
 ## Introduction
 
 This Streamlit application is designed to assist users in scheduling meetings. It leverages the Langchain library to integrate GPT-3.5 Turbo from OpenAI for generating potential meeting times and confirming them. The application is divided into two main sections:
